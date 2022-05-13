@@ -1,0 +1,14 @@
+<svg width="650" height="233" viewBox="0 0 650 233" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_27_4" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="650" height="233">
+<rect width="650" height="233" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_27_4)">
+<circle cx="325" cy="-114" r="343" transform="rotate(90 325 -114)" fill="url(#paint0_angular_27_4)"/>
+</g>
+<defs>
+<radialGradient id="paint0_angular_27_4" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(325 -114) rotate(90) scale(343)">
+<stop stop-color="white" stop-opacity="0.16"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
